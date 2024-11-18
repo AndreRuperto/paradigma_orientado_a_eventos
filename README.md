@@ -77,7 +77,7 @@ Este projeto é um exemplo claro de *programação orientada a eventos*. Abaixo 
 ### Casos de Uso 📄
 Este projeto pode ser usado em diversos contextos para ensinar ou demonstrar a *programação orientada a eventos*, como:
 - **Interfaces gráficas**: Como responder a cliques de botões e manter uma aplicação interativa.
-- **Processos Assíncronos**: Utilizando timers para gerenciar mudanças de estado ao longo do tempo.
+- **Processos Assíncronos**: Utilizando timers para gerenciar mudanças de estado no decorrer do tempo.
 
 ---
 
