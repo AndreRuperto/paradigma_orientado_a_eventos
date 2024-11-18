@@ -21,7 +21,31 @@ Esta apresentação aborda os principais tópicos relacionados ao paradigma de p
 
 - São discutidas as principais características da linguagem, como namespaces, classes, estruturas de controle, LINQ e expressões lambda.
 
----
+## Referências 📚
+
+1. [BestProg: "The history of the emergence of the C# programming language and Microsoft .NET technology"](https://www.bestprog.net/en/2022/05/22/c-the-history-of-the-emergence-of-the-c-programming-language-and-microsoft-net-technology/)
+2. [DEV Community: "C#'s History, .NET Relationship, and Advantages/Disadvantages"](https://dev.to/snelson723/cs-history-net-relationship-and-advantagesdisadvantages-102b)
+3. [AltexSoft: "C# Pros and Cons"](https://www.altexsoft.com/blog/c-sharp-pros-and-cons/)
+4. [DEV Community: "The History and Importance of C# in the Software Industry"](https://dev.to/dogaaydinn/the-history-and-importance-of-c-in-the-software-industry-if2)
+5. [DotNetCurry: "The Evolution of C#"](https://www.dotnetcurry.com/csharp/1465/csharp-evolution)
+6. [CodeGuru: "C# Advantages"](https://www.codeguru.com/csharp/c-sharp-advantages/)
+7. [DevMedia: "O que é C#?"](https://www.devmedia.com.br/introducao-ao-c/1696)
+8. [Microsoft Docs: "Visão geral do C#"](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+9. [GeeksforGeeks: "What is the Event Driven Programming Paradigm"](https://www.geeksforgeeks.org/what-is-the-event-driven-programming-paradigm/)
+10. [StudySmarter: "Event Driven Programming"](https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/event-driven-programming/)
+11. [The Architecture of Open Source Applications - Twisted](https://aosabook.org/en/v2/twisted.html)
+12. Concepts of Programming Languages - Robert W. Sebesta, 2012 (PDF)
+13. Programming Language Pragmatics - Michael L. Scott, 2008 (PDF)
+14. Paradigmas de Desenvolvimento de Software: Comparação entre abordagens orientada a eventos e orientada a notificações - ROBSON DUARTE, 2014 (PDF)
+15. [Microsoft Docs: "Compiler Errors"](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/compiler-messages/feature-version-errors)
+16. [Microsoft Docs: "Classes e Structs"](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/)
+17. [Microsoft Docs: "If, Else If, Else Statements"](https://learn.microsoft.com/en-us/training/modules/csharp-if-elseif-else/)
+18. [Microsoft Docs: "Selection Statements"](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/selection-statements)
+19. [Microsoft Docs: "Events Programming Guide"](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/events/)
+20. [Microsoft Docs: "List<T> Class"](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0)
+21. [Microsoft Docs: "Iteration Statements - The For Statement"](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements#the-for-statement)
+22. [Wikipedia: "Whirlwind I"](https://en.wikipedia.org/wiki/Whirlwind_I)
+23. [Wikipedia: "Semi-Automatic Ground Environment (SAGE)"](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment)
 
 ## TrafficLightSimulationGUI - Exemplo Prático 🚦
 
@@ -77,7 +101,7 @@ Este projeto é um exemplo claro de *programação orientada a eventos*. Abaixo 
 ### Casos de Uso 📄
 Este projeto pode ser usado em diversos contextos para ensinar ou demonstrar a *programação orientada a eventos*, como:
 - **Interfaces gráficas**: Como responder a cliques de botões e manter uma aplicação interativa.
-- **Processos Assíncronos**: Utilizando timers para gerenciar mudanças de estado no decorrer do tempo.
+- **Processos Assíncronos**: Utilizando timers para gerenciar mudanças de estado ao longo do tempo.
 
 ---
 
