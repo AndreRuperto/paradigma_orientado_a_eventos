@@ -12,7 +12,7 @@ Esta apresentação aborda os principais tópicos relacionados ao paradigma de p
 
 ## Linguagem C# ⚛️
 
-- **História**: Criada em 2000, C# foi projetada como uma linguagem moderna para o .NET, buscando competir com Java.
+- **História**: Criada em 2000, a linguagem C# foi projetada como uma linguagem moderna para o .NET, buscando competir com Java.
 - **Criador**: Anders Hejlsberg liderou o desenvolvimento da linguagem, com suporte de colaboradores como Scott Wiltamuth e Peter Golde.
 - **Uso no Mercado**: Aplicações incluem ASP.NET, desenvolvimento de jogos com Unity 🎮, e aplicações móveis com Xamarin 📱.
 - **Ano de Pico e Logotipo**: A linguagem teve seu auge em popularidade entre 2010-2015, com um logotipo que reflete a robustez e a identidade visual da Microsoft.
